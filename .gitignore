@@ -1,0 +1,6 @@
+__pycache__
+.idea
+.git
+venv
+message_for_commit.txt
+readme_png

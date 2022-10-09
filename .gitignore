@@ -3,4 +3,3 @@ __pycache__
 .git
 venv
 message_for_commit.txt
-readme_png
